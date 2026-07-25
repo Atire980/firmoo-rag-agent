@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(D:/heima_uv/uv/eduagent/.venv/Scripts/python.exe *)",
+      "Bash(where uv *)",
+      "Read(//d/heima_uv/uv/eduagent/**)",
+      "Bash(/d/heima_uv/uv/uv pip *)",
+      "Bash(python -m pytest tests/test_nodes.py -q)",
+      "Bash(python -c \"import langchain; print\\(langchain.__version__\\)\")",
+      "Bash(python -c \"from langchain_core.messages import HumanMessage, AIMessage; print\\('langchain_core works'\\)\")",
+      "Bash(python -c \"from langchain.schema import HumanMessage, AIMessage; print\\('langchain.schema works'\\)\")",
+      "Bash(python -c \"from langchain_core.messages import BaseMessage; print\\('BaseMessage OK'\\)\")",
+      "Bash(python -c \"from langchain_core.documents import Document; print\\('Document OK'\\)\")",
+      "Bash(python -c \"from frontend.api_client import API_BASE_URL, health_check, send_chat_message, ApiClientError; print\\('api_client OK, base_url:', API_BASE_URL\\)\")",
+      "Bash(python -c \"from frontend.styles import GLOBAL_CSS; print\\('styles OK, CSS length:', len\\(GLOBAL_CSS\\)\\)\")",
+      "Bash(python -c ' *)",
+      "Bash(python -m pytest tests/ -q --tb=short)",
+      "Bash(python -c \"import frontend; print\\('frontend package OK'\\)\")"
+    ]
+  }
+}

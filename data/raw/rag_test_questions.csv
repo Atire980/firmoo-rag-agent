@@ -1,0 +1,307 @@
+
+
+test_id,question,expected_source,difficulty
+T0001,收到破损眼镜怎么处理？,policies,medium
+T0002,普通镜框可以退货吗？,policies,easy
+T0003,FM00846 这款眼镜是什么材质，适合什么场景？,product_chunks,hard
+T0004,普通镜框可以退货吗？,policies,hard
+T0005,普通镜框可以退货吗？,policies,medium
+T0006,散光镜片适合日常办公吗？,faq,hard
+T0007,处方镜片填错度数可以免费换吗？,policies,easy
+T0008,FM00025 这款眼镜是什么材质，适合什么场景？,product_chunks,medium
+T0009,太阳镜度数填错了怎么办？,faq,hard
+T0010,FM00414 适合大脸还是小脸？会不会太重？,product_chunks,hard
+T0011,英国度数填错了怎么办？,faq,hard
+T0012,FM00704 支持蓝光、渐进或变色镜片吗？,product_chunks,easy
+T0013,FM00941 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0014,FM00100 适合大脸还是小脸？会不会太重？,product_chunks,hard
+T0015,英国镜片适合日常办公吗？,faq,easy
+T0016,FM00719 支持蓝光、渐进或变色镜片吗？,product_chunks,easy
+T0017,FM00829 这款眼镜是什么材质，适合什么场景？,product_chunks,easy
+T0018,FM00695 这款眼镜是什么材质，适合什么场景？,product_chunks,hard
+T0019,FM00797 支持蓝光、渐进或变色镜片吗？,product_chunks,medium
+T0020,普通镜框可以退货吗？,policies,easy
+T0021,处方镜片填错度数可以免费换吗？,policies,medium
+T0022,订单退款后还能取消吗？,faq,medium
+T0023,商品进入加工后还能取消吗？,policies,hard
+T0024,FM00467 这款眼镜是什么材质，适合什么场景？,product_chunks,medium
+T0025,商品进入加工后还能取消吗？,policies,hard
+T0026,FM00218 这款眼镜是什么材质，适合什么场景？,product_chunks,easy
+T0027,付款情况下可以换货吗？,faq,medium
+T0028,普通镜框可以退货吗？,policies,hard
+T0029,渐进脸适合什么镜框？,faq,hard
+T0030,FM00633 支持蓝光、渐进或变色镜片吗？,product_chunks,medium
+T0031,FM00405 适合大脸还是小脸？会不会太重？,product_chunks,hard
+T0032,FM00253 支持蓝光、渐进或变色镜片吗？,product_chunks,hard
+T0033,付款脸适合什么镜框？,faq,hard
+T0034,FM00665 适合大脸还是小脸？会不会太重？,product_chunks,medium
+T0035,付款问题可以转人工吗？,faq,hard
+T0036,我可以购买无度数的近视吗？,faq,easy
+T0037,FM00299 支持蓝光、渐进或变色镜片吗？,product_chunks,hard
+T0038,退款镜片适合日常办公吗？,faq,medium
+T0039,FM00436 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0040,英国度数填错了怎么办？,faq,medium
+T0041,商品进入加工后还能取消吗？,policies,easy
+T0042,FM00645 适合大脸还是小脸？会不会太重？,product_chunks,hard
+T0043,收到破损眼镜怎么处理？,policies,medium
+T0044,FM00889 支持蓝光、渐进或变色镜片吗？,product_chunks,easy
+T0045,小脸度数填错了怎么办？,faq,easy
+T0046,FM00424 支持蓝光、渐进或变色镜片吗？,product_chunks,easy
+T0047,FM00663 这款眼镜是什么材质，适合什么场景？,product_chunks,medium
+T0048,FM00217 支持蓝光、渐进或变色镜片吗？,product_chunks,hard
+T0049,FM00925 支持蓝光、渐进或变色镜片吗？,product_chunks,medium
+T0050,FM00557 支持蓝光、渐进或变色镜片吗？,product_chunks,easy
+T0051,FM00683 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0052,FM00068 适合大脸还是小脸？会不会太重？,product_chunks,medium
+T0053,FM00343 适合大脸还是小脸？会不会太重？,product_chunks,medium
+T0054,处方镜片填错度数可以免费换吗？,policies,medium
+T0055,FM00501 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0056,FM00744 支持蓝光、渐进或变色镜片吗？,product_chunks,medium
+T0057,FM00036 适合大脸还是小脸？会不会太重？,product_chunks,medium
+T0058,商品进入加工后还能取消吗？,policies,medium
+T0059,FM00016 适合大脸还是小脸？会不会太重？,product_chunks,medium
+T0060,FM00042 支持蓝光、渐进或变色镜片吗？,product_chunks,hard
+T0061,FM00618 适合大脸还是小脸？会不会太重？,product_chunks,hard
+T0062,太阳镜优惠可以叠加吗？,faq,easy
+T0063,FM00132 适合大脸还是小脸？会不会太重？,product_chunks,hard
+T0064,大脸度数填错了怎么办？,faq,medium
+T0065,FM00682 这款眼镜是什么材质，适合什么场景？,product_chunks,easy
+T0066,FM00510 这款眼镜是什么材质，适合什么场景？,product_chunks,easy
+T0067,英国度数填错了怎么办？,faq,hard
+T0068,FM00941 这款眼镜是什么材质，适合什么场景？,product_chunks,medium
+T0069,FM00318 这款眼镜是什么材质，适合什么场景？,product_chunks,hard
+T0070,FM00944 支持蓝光、渐进或变色镜片吗？,product_chunks,easy
+T0071,太阳镜优惠可以叠加吗？,faq,medium
+T0072,收到破损眼镜怎么处理？,policies,easy
+T0073,FM00941 支持蓝光、渐进或变色镜片吗？,product_chunks,medium
+T0074,FM00185 这款眼镜是什么材质，适合什么场景？,product_chunks,hard
+T0075,普通镜框可以退货吗？,policies,easy
+T0076,FM00079 适合大脸还是小脸？会不会太重？,product_chunks,hard
+T0077,FM00313 适合大脸还是小脸？会不会太重？,product_chunks,medium
+T0078,普通镜框可以退货吗？,policies,hard
+T0079,FM00743 支持蓝光、渐进或变色镜片吗？,product_chunks,medium
+T0080,FM00511 这款眼镜是什么材质，适合什么场景？,product_chunks,medium
+T0081,FM00797 这款眼镜是什么材质，适合什么场景？,product_chunks,easy
+T0082,FM00208 支持蓝光、渐进或变色镜片吗？,product_chunks,easy
+T0083,FM00390 这款眼镜是什么材质，适合什么场景？,product_chunks,medium
+T0084,FM00998 支持蓝光、渐进或变色镜片吗？,product_chunks,medium
+T0085,鼻托镜片适合日常办公吗？,faq,medium
+T0086,渐进度数填错了怎么办？,faq,hard
+T0087,FM00216 这款眼镜是什么材质，适合什么场景？,product_chunks,hard
+T0088,FM00090 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0089,处方镜片填错度数可以免费换吗？,policies,medium
+T0090,FM00797 这款眼镜是什么材质，适合什么场景？,product_chunks,easy
+T0091,FM00001 支持蓝光、渐进或变色镜片吗？,product_chunks,hard
+T0092,鼻托情况下可以换货吗？,faq,hard
+T0093,FM00207 这款眼镜是什么材质，适合什么场景？,product_chunks,medium
+T0094,FM00920 这款眼镜是什么材质，适合什么场景？,product_chunks,hard
+T0095,订单儿童后还能取消吗？,faq,hard
+T0096,FM00257 适合大脸还是小脸？会不会太重？,product_chunks,hard
+T0097,阅读度数填错了怎么办？,faq,medium
+T0098,商品进入加工后还能取消吗？,policies,medium
+T0099,FM00964 支持蓝光、渐进或变色镜片吗？,product_chunks,medium
+T0100,FM00737 这款眼镜是什么材质，适合什么场景？,product_chunks,easy
+T0101,普通镜框可以退货吗？,policies,hard
+T0102,FM00668 这款眼镜是什么材质，适合什么场景？,product_chunks,easy
+T0103,FM00072 这款眼镜是什么材质，适合什么场景？,product_chunks,hard
+T0104,普通镜框可以退货吗？,policies,medium
+T0105,近视度数填错了怎么办？,faq,easy
+T0106,蓝光脸适合什么镜框？,faq,hard
+T0107,商品进入加工后还能取消吗？,policies,easy
+T0108,订单加工后还能取消吗？,faq,hard
+T0109,蓝光优惠可以叠加吗？,faq,hard
+T0110,FM00558 适合大脸还是小脸？会不会太重？,product_chunks,hard
+T0111,FM00744 支持蓝光、渐进或变色镜片吗？,product_chunks,easy
+T0112,FM00437 这款眼镜是什么材质，适合什么场景？,product_chunks,medium
+T0113,普通镜框可以退货吗？,policies,medium
+T0114,FM00834 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0115,FM00120 适合大脸还是小脸？会不会太重？,product_chunks,hard
+T0116,儿童镜片适合日常办公吗？,faq,easy
+T0117,FM00049 支持蓝光、渐进或变色镜片吗？,product_chunks,medium
+T0118,FM00129 适合大脸还是小脸？会不会太重？,product_chunks,hard
+T0119,FM00969 适合大脸还是小脸？会不会太重？,product_chunks,hard
+T0120,FM00749 支持蓝光、渐进或变色镜片吗？,product_chunks,medium
+T0121,FM00222 支持蓝光、渐进或变色镜片吗？,product_chunks,hard
+T0122,FM00033 这款眼镜是什么材质，适合什么场景？,product_chunks,easy
+T0123,FM00612 支持蓝光、渐进或变色镜片吗？,product_chunks,hard
+T0124,FM00489 支持蓝光、渐进或变色镜片吗？,product_chunks,medium
+T0125,FM00830 支持蓝光、渐进或变色镜片吗？,product_chunks,easy
+T0126,FM00045 适合大脸还是小脸？会不会太重？,product_chunks,hard
+T0127,FM00835 支持蓝光、渐进或变色镜片吗？,product_chunks,medium
+T0128,FM00530 适合大脸还是小脸？会不会太重？,product_chunks,hard
+T0129,FM00445 适合大脸还是小脸？会不会太重？,product_chunks,hard
+T0130,FM00252 适合大脸还是小脸？会不会太重？,product_chunks,hard
+T0131,收到破损眼镜怎么处理？,policies,medium
+T0132,FM00548 这款眼镜是什么材质，适合什么场景？,product_chunks,medium
+T0133,处方镜片填错度数可以免费换吗？,policies,medium
+T0134,FM00488 支持蓝光、渐进或变色镜片吗？,product_chunks,hard
+T0135,FM00125 支持蓝光、渐进或变色镜片吗？,product_chunks,medium
+T0136,FM00683 支持蓝光、渐进或变色镜片吗？,product_chunks,medium
+T0137,渐进镜片适合日常办公吗？,faq,medium
+T0138,FM00459 这款眼镜是什么材质，适合什么场景？,product_chunks,easy
+T0139,FM00912 这款眼镜是什么材质，适合什么场景？,product_chunks,hard
+T0140,鼻托度数填错了怎么办？,faq,easy
+T0141,FM00462 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0142,FM00058 适合大脸还是小脸？会不会太重？,product_chunks,medium
+T0143,我可以购买无度数的蓝光吗？,faq,easy
+T0144,FM00305 适合大脸还是小脸？会不会太重？,product_chunks,medium
+T0145,FM00162 这款眼镜是什么材质，适合什么场景？,product_chunks,medium
+T0146,FM00446 这款眼镜是什么材质，适合什么场景？,product_chunks,easy
+T0147,普通镜框可以退货吗？,policies,hard
+T0148,阅读脸适合什么镜框？,faq,medium
+T0149,FM00669 支持蓝光、渐进或变色镜片吗？,product_chunks,medium
+T0150,FM00949 适合大脸还是小脸？会不会太重？,product_chunks,medium
+T0151,FM00859 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0152,FM00983 支持蓝光、渐进或变色镜片吗？,product_chunks,hard
+T0153,FM00088 这款眼镜是什么材质，适合什么场景？,product_chunks,hard
+T0154,FM00648 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0155,FM00891 适合大脸还是小脸？会不会太重？,product_chunks,medium
+T0156,商品进入加工后还能取消吗？,policies,easy
+T0157,普通镜框可以退货吗？,policies,medium
+T0158,FM00572 这款眼镜是什么材质，适合什么场景？,product_chunks,medium
+T0159,FM00147 支持蓝光、渐进或变色镜片吗？,product_chunks,medium
+T0160,FM00970 支持蓝光、渐进或变色镜片吗？,product_chunks,medium
+T0161,处方镜片填错度数可以免费换吗？,policies,easy
+T0162,FM00420 这款眼镜是什么材质，适合什么场景？,product_chunks,hard
+T0163,阅读镜片适合日常办公吗？,faq,easy
+T0164,FM00337 适合大脸还是小脸？会不会太重？,product_chunks,hard
+T0165,蓝光优惠可以叠加吗？,faq,medium
+T0166,普通镜框可以退货吗？,policies,medium
+T0167,处方镜片填错度数可以免费换吗？,policies,hard
+T0168,FM00958 支持蓝光、渐进或变色镜片吗？,product_chunks,hard
+T0169,FM00578 这款眼镜是什么材质，适合什么场景？,product_chunks,easy
+T0170,FM00586 支持蓝光、渐进或变色镜片吗？,product_chunks,easy
+T0171,FM00884 这款眼镜是什么材质，适合什么场景？,product_chunks,medium
+T0172,FM00746 这款眼镜是什么材质，适合什么场景？,product_chunks,medium
+T0173,FM00780 支持蓝光、渐进或变色镜片吗？,product_chunks,hard
+T0174,收到破损眼镜怎么处理？,policies,hard
+T0175,FM00399 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0176,阅读国家配送需要多久？,faq,hard
+T0177,FM00925 支持蓝光、渐进或变色镜片吗？,product_chunks,easy
+T0178,付款度数填错了怎么办？,faq,easy
+T0179,FM00568 这款眼镜是什么材质，适合什么场景？,product_chunks,medium
+T0180,收到破损眼镜怎么处理？,policies,hard
+T0181,普通镜框可以退货吗？,policies,easy
+T0182,FM00983 这款眼镜是什么材质，适合什么场景？,product_chunks,medium
+T0183,FM00315 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0184,FM00414 支持蓝光、渐进或变色镜片吗？,product_chunks,hard
+T0185,FM00369 这款眼镜是什么材质，适合什么场景？,product_chunks,hard
+T0186,蓝光优惠可以叠加吗？,faq,medium
+T0187,大脸度数填错了怎么办？,faq,medium
+T0188,FM00767 这款眼镜是什么材质，适合什么场景？,product_chunks,easy
+T0189,FM00634 适合大脸还是小脸？会不会太重？,product_chunks,medium
+T0190,FM00361 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0191,处方镜片填错度数可以免费换吗？,policies,medium
+T0192,阅读脸适合什么镜框？,faq,hard
+T0193,处方镜片填错度数可以免费换吗？,policies,hard
+T0194,处方镜片填错度数可以免费换吗？,policies,hard
+T0195,FM00440 这款眼镜是什么材质，适合什么场景？,product_chunks,easy
+T0196,FM00396 这款眼镜是什么材质，适合什么场景？,product_chunks,hard
+T0197,我要找人工客服,faq,medium
+T0198,普通镜框可以退货吗？,policies,easy
+T0199,处方镜片填错度数可以免费换吗？,policies,easy
+T0200,FM00816 适合大脸还是小脸？会不会太重？,product_chunks,hard
+T0201,FM00254 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0202,FM00534 适合大脸还是小脸？会不会太重？,product_chunks,hard
+T0203,大脸优惠可以叠加吗？,faq,medium
+T0204,FM00451 适合大脸还是小脸？会不会太重？,product_chunks,hard
+T0205,FM00306 支持蓝光、渐进或变色镜片吗？,product_chunks,hard
+T0206,收到破损眼镜怎么处理？,policies,easy
+T0207,FM00773 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0208,处方镜片填错度数可以免费换吗？,policies,medium
+T0209,FM00707 这款眼镜是什么材质，适合什么场景？,product_chunks,hard
+T0210,FM00926 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0211,普通镜框可以退货吗？,policies,hard
+T0212,FM00931 支持蓝光、渐进或变色镜片吗？,product_chunks,hard
+T0213,我可以购买无度数的儿童吗？,faq,easy
+T0214,FM00522 这款眼镜是什么材质，适合什么场景？,product_chunks,hard
+T0215,FM00395 适合大脸还是小脸？会不会太重？,product_chunks,medium
+T0216,FM00624 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0217,FM00489 支持蓝光、渐进或变色镜片吗？,product_chunks,hard
+T0218,加工问题可以转人工吗？,faq,easy
+T0219,太阳镜脸适合什么镜框？,faq,hard
+T0220,FM00621 这款眼镜是什么材质，适合什么场景？,product_chunks,medium
+T0221,我可以购买无度数的付款吗？,faq,hard
+T0222,英国优惠可以叠加吗？,faq,hard
+T0223,订单加工后还能取消吗？,faq,hard
+T0224,我可以购买无度数的阅读吗？,faq,medium
+T0225,FM00067 支持蓝光、渐进或变色镜片吗？,product_chunks,medium
+T0226,阅读脸适合什么镜框？,faq,medium
+T0227,FM00872 支持蓝光、渐进或变色镜片吗？,product_chunks,hard
+T0228,FM00213 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0229,商品进入加工后还能取消吗？,policies,hard
+T0230,FM00848 支持蓝光、渐进或变色镜片吗？,product_chunks,hard
+T0231,处方镜片填错度数可以免费换吗？,policies,hard
+T0232,FM00305 这款眼镜是什么材质，适合什么场景？,product_chunks,easy
+T0233,FM00850 适合大脸还是小脸？会不会太重？,product_chunks,medium
+T0234,付款镜片适合日常办公吗？,faq,easy
+T0235,大脸镜片适合日常办公吗？,faq,medium
+T0236,FM00446 这款眼镜是什么材质，适合什么场景？,product_chunks,easy
+T0237,FM00556 适合大脸还是小脸？会不会太重？,product_chunks,hard
+T0238,FM00715 适合大脸还是小脸？会不会太重？,product_chunks,medium
+T0239,FM00909 适合大脸还是小脸？会不会太重？,product_chunks,medium
+T0240,FM00300 这款眼镜是什么材质，适合什么场景？,product_chunks,hard
+T0241,FM00356 适合大脸还是小脸？会不会太重？,product_chunks,medium
+T0242,镜腿镜片适合日常办公吗？,faq,easy
+T0243,我可以购买无度数的退款吗？,faq,hard
+T0244,FM00125 这款眼镜是什么材质，适合什么场景？,product_chunks,hard
+T0245,FM00495 这款眼镜是什么材质，适合什么场景？,product_chunks,hard
+T0246,FM00772 这款眼镜是什么材质，适合什么场景？,product_chunks,medium
+T0247,我要找人工客服,faq,hard
+T0248,FM00145 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0249,大脸国家配送需要多久？,faq,easy
+T0250,FM00977 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0251,收到破损眼镜怎么处理？,policies,easy
+T0252,FM00135 支持蓝光、渐进或变色镜片吗？,product_chunks,easy
+T0253,处方镜片填错度数可以免费换吗？,policies,hard
+T0254,FM00766 这款眼镜是什么材质，适合什么场景？,product_chunks,medium
+T0255,FM00332 这款眼镜是什么材质，适合什么场景？,product_chunks,easy
+T0256,商品进入加工后还能取消吗？,policies,medium
+T0257,普通镜框可以退货吗？,policies,medium
+T0258,FM00986 这款眼镜是什么材质，适合什么场景？,product_chunks,hard
+T0259,收到破损眼镜怎么处理？,policies,easy
+T0260,发货情况下可以换货吗？,faq,hard
+T0261,FM00555 适合大脸还是小脸？会不会太重？,product_chunks,medium
+T0262,FM00616 这款眼镜是什么材质，适合什么场景？,product_chunks,hard
+T0263,FM00984 支持蓝光、渐进或变色镜片吗？,product_chunks,hard
+T0264,处方镜片填错度数可以免费换吗？,policies,hard
+T0265,物流一般多久到？,faq,hard
+T0266,FM00681 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0267,FM00841 这款眼镜是什么材质，适合什么场景？,product_chunks,medium
+T0268,FM00833 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0269,普通镜框可以退货吗？,policies,easy
+T0270,FM00705 这款眼镜是什么材质，适合什么场景？,product_chunks,hard
+T0271,FM00028 这款眼镜是什么材质，适合什么场景？,product_chunks,easy
+T0272,FM00810 适合大脸还是小脸？会不会太重？,product_chunks,medium
+T0273,FM00880 支持蓝光、渐进或变色镜片吗？,product_chunks,easy
+T0274,商品进入加工后还能取消吗？,policies,easy
+T0275,FM00378 这款眼镜是什么材质，适合什么场景？,product_chunks,easy
+T0276,儿童度数填错了怎么办？,faq,hard
+T0277,FM00976 支持蓝光、渐进或变色镜片吗？,product_chunks,medium
+T0278,FM00513 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0279,收到破损眼镜怎么处理？,policies,medium
+T0280,订单渐进后还能取消吗？,faq,hard
+T0281,FM00837 这款眼镜是什么材质，适合什么场景？,product_chunks,easy
+T0282,FM00046 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0283,FM00701 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0284,英国国家配送需要多久？,faq,medium
+T0285,FM00485 这款眼镜是什么材质，适合什么场景？,product_chunks,easy
+T0286,客服一直不回复怎么办？,faq,medium
+T0287,英国镜片适合日常办公吗？,faq,medium
+T0288,FM00498 适合大脸还是小脸？会不会太重？,product_chunks,medium
+T0289,FM00649 支持蓝光、渐进或变色镜片吗？,product_chunks,hard
+T0290,FM00776 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0291,小脸脸适合什么镜框？,faq,medium
+T0292,FM00322 这款眼镜是什么材质，适合什么场景？,product_chunks,hard
+T0293,普通镜框可以退货吗？,policies,easy
+T0294,美国镜片适合日常办公吗？,faq,medium
+T0295,FM00131 适合大脸还是小脸？会不会太重？,product_chunks,easy
+T0296,订单美国后还能取消吗？,faq,easy
+T0297,发货度数填错了怎么办？,faq,easy
+T0298,FM00136 这款眼镜是什么材质，适合什么场景？,product_chunks,medium
+T0299,FM00561 适合大脸还是小脸？会不会太重？,product_chunks,medium
+T0300,儿童情况下可以换货吗？,faq,easy
+
+
+---
+
