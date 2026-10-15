@@ -1,6 +1,5 @@
 """
 BGE-M3 Embedding 单例：提供文档批量编码和查询编码，同时输出 dense + sparse 向量。
-
 使用 FlagEmbedding 库的 BGEM3FlagModel，不在其他文件中重复加载模型。
 """
 

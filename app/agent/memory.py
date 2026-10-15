@@ -76,11 +76,9 @@ def should_trigger_summary(message_count: int) -> bool:
 
 def get_recent_messages(messages: list, window_size: int | None = None) -> list:
     """获取最近 N 轮的消息（滑动窗口）。
-
     Args:
         messages:    完整的消息列表。
         window_size: 窗口大小（消息条数），默认使用配置值。
-
     Returns:
         最近 window_size 条消息。
     """
